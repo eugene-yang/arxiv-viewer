@@ -118,7 +118,7 @@ crontab -e
 
 ## Tips
 
-- Run the fetcher after arXiv's daily update (~10:30 PM ET or next morning)
+- Run the fetcher after arXiv's daily update (4AM ET)
 - Use specific standing queries for better ranking
-- Popular embedding models: `nomic-embed-text`, `mxbai-embed-large`, `all-minilm`
+- Popular embedding models: `qwen3-embedding-0.6b`
 - For TLDRs: `llama3.2`, `mistral`, `phi3` work well
