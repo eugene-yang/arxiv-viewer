@@ -1,6 +1,7 @@
 # ArXiv Daily Digest
 
 A tool for fetching, ranking, and browsing arXiv papers with semantic search.
+This simple project is fully written by Claude.
 
 ## Components
 
